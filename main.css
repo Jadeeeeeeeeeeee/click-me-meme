@@ -1,0 +1,38 @@
+html{
+   height: 100%;
+   width: 100%;
+}
+
+body{
+   height: 98%;
+   width: 98%;              
+}
+
+#wrapper{
+   height: 100%;
+   width: 100%;
+}
+
+#button{
+   position: absolute;
+   border-radius: 20px;
+   border-width: 0px;
+   background-color: rgb(166, 165, 227);
+   height: 60px;
+   width: 140px;
+   left: 50%;
+   top: 50%;
+   transform: translate(-50%,-50%);
+   font-size: larger;
+}
+
+#text1{
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translate(-50%,-20%);        
+    font-size: xxx-large ;      
+    height: 400px;
+    width: 400px;
+    text-align: center;
+}
